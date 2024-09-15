@@ -2,7 +2,7 @@
 
 ![GitHub Open in Tower - Icon](/assets/icons/icon-128.png)
 
-[GitHub Open in Tower - Download](https://chrome.google.com/webstore/detail/open-github-in-tower/jgjgjgjgjgjgjgjgjgjgjgjgjgjgjgj)
+[GitHub Open in Tower - Download](https://chromewebstore.google.com/detail/github-open-in-tower/hmemclpeeelkpcopplnfcgplkljgncjk)
 
 ## Description
 
