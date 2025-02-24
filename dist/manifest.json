@@ -1,7 +1,7 @@
 {
   "name": "GitHub Open in Tower",
   "description": "This extension allows you to open the current repository and clone it with Tower.",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "manifest_version": 3,
   "author": "aPinix",
   "action": {
